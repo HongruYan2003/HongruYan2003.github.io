@@ -29,4 +29,5 @@ Experience
 * Research Intern, mlPC Lab, UCSD, 2024.06-Present
 * Undergraduate student (GPA: 3.95/4.0), Tsinghua University, 2021.09 - 2025.07 (Expected)
 
-**Honors and Awards**
+Honors and Awards
+======
