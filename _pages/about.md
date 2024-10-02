@@ -21,21 +21,20 @@ Publications
 ======
 <div style="display: flex; align-items: center;">
     <div style="flex-shrink: 0; margin-right: 20px;">
-        <img src="https://github.com/OpenBMB/AgentVerse/assets/11704492/6db1c907-b7fc-42f9-946c-89853a28f386" alt="AgentVerse Illustration" style="max-width: 300px;">
+        <img src="https://github.com/HongruYan2003/HongruYan2003.github.io/tree/master/images/oponerf.png" alt="OPONeRF" style="max-width: 300px;">
     </div>
     <div>
         <div style="font-size: 18px; font-weight: bold; margin-bottom: 10px;">
-            AgentVerse: Facilitating Multi-Agent Collaboration and Exploring Emergent Behaviors
+            OPONeRF: One-Point-One NeRF for Robust Neural Rendering
         </div>
         <div style="font-size: 14px; margin-bottom: 10px;">
-            Weize Chen*, Yusheng Su*, <i>Jingwei Zuo</i>, Cheng Yang, Chenfei Yuan, Chi-Min Chan, Heyang Yu, Yaxi Lu, Yi-Hsin Hung, Chen Qian, Yujia Qin, Xin Cong, Ruobing Xie, Zhiyuan Liu, Maosong Sun, Jie Zhou
+            Yu Zheng, Yueqi Duan, Kangfu Zheng, Hongru Yan, Jiwen Lu, Jie Zhou
         </div>
         <div style="font-size: 14px; color: gray;">
-            ICLR 2024
+            arXiv Preprint
         </div>
         <div style="font-size: 14px; margin-top: 10px;">
-            <a href="https://arxiv.org/abs/2308.10848" style="text-decoration: none; color: blue;">[paper]</a>
-            <a href="https://github.com/OpenBMB/AgentVerse" style="text-decoration: none; color: blue;">[code]</a>
+            <a href="https://arxiv.org/abs/2409.20043" style="text-decoration: none; color: blue;">[paper]</a>
         </div>
     </div>
 </div>
