@@ -16,48 +16,17 @@ You can find my CV here: [Curriculum Vitae](../assets/CV.pdf)
 [Email](yanhr21@mails.tsinghua.edu.cn) / [Github](https://github.com/HongruYan2003)
 
 
-
-Publications
+Publications 
 ======
-<div style="display: flex; align-items: center;">
-    <div style="flex-shrink: 0; margin-right: 20px;">
-        <img src="https://github.com/HongruYan2003/HongruYan2003.github.io/tree/master/images/gaussiandet.png" alt="GaussianDet" style="max-width: 300px;">
-    </div>
-    <div>
-        <div style="font-size: 18px; font-weight: bold; margin-bottom: 10px;">
-            Gaussian-Det: Learning Closed-Surface Gaussians for 3D Object Detection
-        </div>
-        <div style="font-size: 14px; margin-bottom: 10px;">
-            Hongru Yan*, Yu Zheng*, Yueqi Duan
-        </div>
-        <div style="font-size: 14px; color: gray;">
-            ICLR 2025(Under Review)
-        </div>
-        <div style="font-size: 14px; margin-top: 10px;">
-            <a href="https://arxiv.org/abs/2409.20043" style="text-decoration: none; color: blue;">[paper]</a>
-        </div>
-    </div>
-</div>
+* **Hongru Yan**, Yu Zheng, Yueqi Duan. **Gaussian-Det: Learning Closed-Surface Gaussians for 3D Object Detection** *ICLR2025(Under Review)* ([Paper](https://arxiv.org/pdf/2409.20043.pdf) / [ArXiv](https://arxiv.org/pdf/2409.20043.pdf) )
+* Yu Zheng, Yueqi Duan, Kangfu Zheng, **Hongru Yan**, Jiwen Lu, Jie Zhou. **OPONeRF: One-Point-One NeRF for Robust Neural Rendering** *arXiv prePrint* ([Paper](https://arxiv.org/pdf/2409.20043.pdf) / [ArXiv](https://arxiv.org/pdf/2409.20043.pdf) )
+* Yu Zheng, **Hongru Yan**, Yueqi Duan, Jiwen Lu. **ShadowNeRF: Learning Neural Radiance Field with Sight Degradation and Recovery**
+* Zeyuan Chen, **Hongru Yan**, Fangyin Wei, Xiang Zhang, Xinyue Wei, Hao Su, Zhuowen Tu. **Epi-Inpainter: Learning Multi-View Aware 3D Inpainting via Epipolar Diffusion Prior** *3DV2025(Under Review)*
 
+  
+Experience
+======
+* Research Intern, mlPC Lab, UCSD, 2024.06-Present
+* Undergraduate student (GPA: 3.95/4.0), Tsinghua University, 2021.09 - 2025.07 (Expected)
 
-
-
-<div style="display: flex; align-items: center;">
-    <div style="flex-shrink: 0; margin-right: 20px;">
-        <img src="https://github.com/HongruYan2003/HongruYan2003.github.io/tree/master/images/oponerf.png" alt="OPONeRF" style="max-width: 300px;">
-    </div>
-    <div>
-        <div style="font-size: 18px; font-weight: bold; margin-bottom: 10px;">
-            OPONeRF: One-Point-One NeRF for Robust Neural Rendering
-        </div>
-        <div style="font-size: 14px; margin-bottom: 10px;">
-            Yu Zheng, Yueqi Duan, Kangfu Zheng, Hongru Yan, Jiwen Lu, Jie Zhou
-        </div>
-        <div style="font-size: 14px; color: gray;">
-            arXiv Preprint
-        </div>
-        <div style="font-size: 14px; margin-top: 10px;">
-            <a href="https://arxiv.org/abs/2409.20043" style="text-decoration: none; color: blue;">[paper]</a>
-        </div>
-    </div>
-</div>
+**Honors and Awards**
