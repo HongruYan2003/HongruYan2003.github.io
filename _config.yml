@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "HongruYan2003"
+  name             : "Hongru Yan"
   avatar           : "profile.jpg"
   bio              : "Undergraduate at Tsinghua"
   location         : "Beijing, China"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=AshbdmQAAAAJ&hl=en"
+  googlescholar    : # "https://scholar.google.com/citations?user=AshbdmQAAAAJ&hl=en"
   email            : "yanhongru2003@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "Chris40567043"
+  twitter          : # "Chris40567043"
   vine             :
   weibo            :
   xing             :
