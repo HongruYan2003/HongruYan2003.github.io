@@ -26,8 +26,13 @@ Publications
   
 Experience
 ======
-* Research Intern, mlPC Lab, UCSD, 2024.06-Present
+* Research Intern, mlPC Lab, advised by Prof. Zhuowen Tu, UCSD, 2024.06-Present
+* Research Intern, advised by Prof. Yueqi Duan, Tsinghua University, 2023.4-Present
 * Undergraduate student (GPA: 3.95/4.0), Tsinghua University, 2021.09 - 2025.07 (Expected)
 
 Honors and Awards
 ======
+
+Academic Services
+======
+Conference Review: ICLR 2025
