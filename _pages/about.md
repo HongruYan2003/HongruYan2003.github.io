@@ -18,8 +18,8 @@ You can find my CV here: [Curriculum Vitae](../assets/CV.pdf)
 
 Publications 
 ======
-* **Hongru Yan\***, Yu Zheng\*, Yueqi Duan. **Gaussian-Det: Learning Closed-Surface Gaussians for 3D Object Detection** *ICLR2025(Under Review)* ([Paper](https://arxiv.org/pdf/2409.20043.pdf) / [ArXiv](https://arxiv.org/pdf/2409.20043.pdf) )
-* Yu Zheng, Yueqi Duan, Kangfu Zheng, **Hongru Yan**, Jiwen Lu, Jie Zhou. **OPONeRF: One-Point-One NeRF for Robust Neural Rendering** *arXiv prePrint* ([Paper](https://arxiv.org/pdf/2409.20043.pdf) / [ArXiv](https://arxiv.org/pdf/2409.20043.pdf) )
+* **Hongru Yan\***, Yu Zheng\*, Yueqi Duan. **Gaussian-Det: Learning Closed-Surface Gaussians for 3D Object Detection** *ICLR2025(Under Review)* ([Paper](https://arxiv.org/pdf/2410.01404.pdf) / [ArXiv](https://arxiv.org/pdf/2410.01404) )
+* Yu Zheng, Yueqi Duan, Kangfu Zheng, **Hongru Yan**, Jiwen Lu, Jie Zhou. **OPONeRF: One-Point-One NeRF for Robust Neural Rendering** *IJCV(Under Review)* ([Paper](https://arxiv.org/pdf/2409.20043.pdf) / [ArXiv](https://arxiv.org/pdf/2409.20043) )
 * Yu Zheng, **Hongru Yan**, Yueqi Duan, Jiwen Lu. **ShadowNeRF: Learning Neural Radiance Field with Sight Degradation and Recovery**
 * Zeyuan Chen\*, **Hongru Yan\***, Fangyin Wei, Xiang Zhang, Xinyue Wei, Hao Su, Zhuowen Tu. **Epi-Inpainter: Learning Multi-View Aware 3D Inpainting via Epipolar Diffusion Prior** *3DV2025(Under Review)*
 
