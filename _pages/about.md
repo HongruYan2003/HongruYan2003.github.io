@@ -35,4 +35,4 @@ Honors and Awards
 
 Academic Services
 ======
-Conference Review: ICLR 2025
+* Conference Review: ICLR 2025
