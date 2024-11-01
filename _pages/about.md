@@ -32,7 +32,7 @@ Experience
 
 Honors and Awards
 ======
-**National Scholarship** (top scholarship in China; 0.2% domestically), 2024.11, Ministry of Education
+* **National Scholarship** (top scholarship in China; 0.2% domestically), Ministry of Education, 2024
 
 Academic Services
 ======
