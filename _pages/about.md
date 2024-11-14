@@ -33,6 +33,7 @@ Experience
 Honors and Awards
 ======
 * **National Scholarship** (top scholarship in China; 0.2% domestically), Ministry of Education, 2024
+* **Academic Excellence Scholarship**, Tsinghua University, 2024
 
 Academic Services
 ======
