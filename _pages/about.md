@@ -15,6 +15,9 @@ You can find my CV here: [Curriculum Vitae](../assets/CV.pdf)
 
 [Email](yanhr21@mails.tsinghua.edu.cn) / [Github](https://github.com/HongruYan2003)
 
+News
+=====
+* **2025.1.23** One Paper is Accepted by **ICLR2025**!
 
 Publications 
 ======
