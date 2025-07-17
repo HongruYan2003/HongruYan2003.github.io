@@ -26,6 +26,56 @@ Publications
 * Yu Zheng, Yueqi Duan, Kangfu Zheng, **Hongru Yan**, Jiwen Lu, Jie Zhou. **OPONeRF: One-Point-One NeRF for Robust Neural Rendering** *Under Review* ([Paper](https://arxiv.org/pdf/2409.20043.pdf) / [ArXiv](https://arxiv.org/pdf/2409.20043)  / [Project Page](https://yzheng97.github.io/OPONeRF/))
 * Yu Zheng, **Hongru Yan**, Yueqi Duan, Jiwen Lu. **ShadowNeRF: Learning Neural Radiance Field with Sight Degradation and Recovery** *Under Review*
 
+## Publications
+
+<table>
+  <tr>
+    <td width="160">
+      <img src="https://yzheng97.github.io/Gaussian-Det/static/images/teaser.png" width="150">
+    </td>
+    <td>
+      <b>Hongru Yan</b>, Zeyuan Chen, Xiang Zhang, Fangyin Wei, Zhuowen Tu. <br>
+      <b>Gaussian Swaying: A Surface-Oriented Framework for Wind-Driven Dynamics with 3D Gaussians</b><br>
+      <i>Under Review</i>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://yzheng97.github.io/Gaussian-Det/static/images/teaser.png" width="150">
+    </td>
+    <td>
+      <b>Hongru Yan*</b>, Yu Zheng*, Yueqi Duan. <br>
+      <b>Gaussian-Det: Learning Closed-Surface Gaussians for 3D Object Detection</b><br>
+      <i>ICLR 2025</i><br>
+      <a href="https://arxiv.org/pdf/2410.01404.pdf">[Paper]</a> 
+      <a href="https://arxiv.org/pdf/2410.01404">[ArXiv]</a> 
+      <a href="https://yzheng97.github.io/Gaussian-Det/">[Project Page]</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://yzheng97.github.io/OPONeRF/static/images/teaser.jpg" width="150">
+    </td>
+    <td>
+      Yu Zheng, Yueqi Duan, Kangfu Zheng, <b>Hongru Yan</b>, Jiwen Lu, Jie Zhou. <br>
+      <b>OPONeRF: One-Point-One NeRF for Robust Neural Rendering</b><br>
+      <i>Under Review</i><br>
+      <a href="https://arxiv.org/pdf/2409.20043.pdf">[Paper]</a> 
+      <a href="https://arxiv.org/pdf/2409.20043">[ArXiv]</a> 
+      <a href="https://yzheng97.github.io/OPONeRF/">[Project Page]</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://yzheng97.github.io/ShadowNeRF/static/images/teaser.jpg" width="150">
+    </td>
+    <td>
+      Yu Zheng, <b>Hongru Yan</b>, Yueqi Duan, Jiwen Lu. <br>
+      <b>ShadowNeRF: Learning Neural Radiance Field with Sight Degradation and Recovery</b><br>
+      <i>Under Review</i>
+    </td>
+  </tr>
+</table>
 
   
 Experience
