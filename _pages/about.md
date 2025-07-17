@@ -28,9 +28,9 @@ Publications
 
 ## Publications
 
-<table>
+<table style="border: none;">
   <tr>
-    <td width="160">
+    <td width="160" style="border: none;">
       <img src="https://yzheng97.github.io/Gaussian-Det/static/images/teaser.png" width="150">
     </td>
     <td>
