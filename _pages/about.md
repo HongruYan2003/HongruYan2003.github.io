@@ -21,7 +21,7 @@ News
 
 Publications 
 ======
-<table border="0" style="border-collapse: collapse;">
+<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
   <tr>
     <td style="width: 200px; vertical-align: top;">
       <img src="../assets/gaussiandet.jpg" alt="Gaussian-Det" width="200">
