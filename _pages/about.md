@@ -21,6 +21,22 @@ News
 
 Publications 
 ======
+<table border="0" style="border-collapse: collapse;">
+  <tr>
+    <td style="width: 200px; vertical-align: top;">
+      <img src="../assets/gaussiandet.jpg" alt="Gaussian-Det" width="200">
+    </td>
+    <td style="vertical-align: top; padding-left: 12px;">
+      <b>Hongru Yan*</b>, Yu Zheng*, Yueqi Duan.  
+      <b>Gaussian-Det: Learning Closed-Surface Gaussians for 3D Object Detection</b>  
+      <i>ICLR 2025</i>  
+      [<a href="https://arxiv.org/pdf/2410.01404.pdf">Paper</a>] ·
+      [<a href="https://arxiv.org/pdf/2410.01404">ArXiv</a>] ·
+      [<a href="https://yzheng97.github.io/Gaussian-Det/">Project Page</a>]
+    </td>
+  </tr>
+</table>
+
 <table>
   <tr>
     <td style="width: 32%;"><img src="images/gaussian_swaying.png" alt="Gaussian Swaying" width="100%"></td>
