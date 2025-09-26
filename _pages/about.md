@@ -21,71 +21,6 @@ News
 
 Publications 
 ======
-<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
-  <tr>
-    <td style="width: 200px; vertical-align: top;">
-      <img src="../assets/gaussiandet.jpg" alt="Gaussian-Det" width="200">
-    </td>
-    <td style="vertical-align: top; padding-left: 12px;">
-      <b>Hongru Yan*</b>, Yu Zheng*, Yueqi Duan.  
-      <b>Gaussian-Det: Learning Closed-Surface Gaussians for 3D Object Detection</b>  
-      <i>ICLR 2025</i>  
-      [<a href="https://arxiv.org/pdf/2410.01404.pdf">Paper</a>] ·
-      [<a href="https://arxiv.org/pdf/2410.01404">ArXiv</a>] ·
-      [<a href="https://yzheng97.github.io/Gaussian-Det/">Project Page</a>]
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td style="width: 32%;"><img src="images/gaussian_swaying.png" alt="Gaussian Swaying" width="100%"></td>
-    <td style="width: 68%; vertical-align: top; padding-left: 12px;">
-      <b>Hongru Yan</b>, Zeyuan Chen, Xiang Zhang, Fangyin Wei, Zhuowen Tu.  
-      <b>Gaussian Swaying: A Surface-Oriented Framework for Wind-Driven Dynamics with 3D Gaussians</b>  
-      <i>Under Review</i>
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td style="width: 32%;"><img src="../assets/gaussiandet.jpg" alt="Gaussian-Det" width="100%"></td>
-    <td style="width: 68%; vertical-align: top; padding-left: 12px;">
-      <b>Hongru Yan*</b>, Yu Zheng*, Yueqi Duan.  
-      <b>Gaussian-Det: Learning Closed-Surface Gaussians for 3D Object Detection</b>  
-      <i>ICLR 2025</i>  
-      [<a href="https://arxiv.org/pdf/2410.01404.pdf">Paper</a>] ·
-      [<a href="https://arxiv.org/pdf/2410.01404">ArXiv</a>] ·
-      [<a href="https://yzheng97.github.io/Gaussian-Det/">Project Page</a>]
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td style="width: 32%;"><img src="images/oponerf.png" alt="OPONeRF" width="100%"></td>
-    <td style="width: 68%; vertical-align: top; padding-left: 12px;">
-      Yu Zheng, Yueqi Duan, Kangfu Zheng, <b>Hongru Yan</b>, Jiwen Lu, Jie Zhou.  
-      <b>OPONeRF: One-Point-One NeRF for Robust Neural Rendering</b>  
-      <i>Under Review</i>  
-      [<a href="https://arxiv.org/pdf/2409.20043.pdf">Paper</a>] ·
-      [<a href="https://arxiv.org/pdf/2409.20043">ArXiv</a>] ·
-      [<a href="https://yzheng97.github.io/OPONeRF/">Project Page</a>]
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td style="width: 32%;"><img src="../assets/shadownerf.jpg" alt="ShadowNeRF" width="100%"></td>
-    <td style="width: 68%; vertical-align: top; padding-left: 12px;">
-      Yu Zheng, <b>Hongru Yan</b>, Yueqi Duan, Jiwen Lu.  
-      <b>ShadowNeRF: Learning Neural Radiance Field with Sight Degradation and Recovery</b>  
-      <i>TMM</i>
-    </td>
-  </tr>
-</table>
 
 * **Hongru Yan**, Zeyuan Chen, Xiang Zhang, Fangyin Wei, Zhuowen Tu. **Gaussian Swaying: A Surface-Oriented Framework for Wind-Driven Dynamics with 3D Gaussians** *Under Review*.
 * **Hongru Yan\***, Yu Zheng\*, Yueqi Duan. **Gaussian-Det: Learning Closed-Surface Gaussians for 3D Object Detection** *ICLR2025* ([Paper](https://arxiv.org/pdf/2410.01404.pdf) / [ArXiv](https://arxiv.org/pdf/2410.01404)  / [Project Page](https://yzheng97.github.io/Gaussian-Det/))
@@ -96,6 +31,7 @@ Publications
       
 Experience
 ======
+* Research Intern, Machine Learning Group, Microsoft Research Asia, 2025.04-2025.09
 * Research Intern, mlPC Lab, advised by Prof. Zhuowen Tu, UCSD, 2024.06-2024.11
 * Research Intern, advised by Prof. Yueqi Duan, Tsinghua University, 2023.4-2025.01
 * Undergraduate student (GPA: 3.95/4.0), Tsinghua University, 2021.09 - 2025.07 
