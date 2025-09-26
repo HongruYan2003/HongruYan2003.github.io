@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I'm a senior undergraduate student from Tsinghua University. My research interests are scene reconstruction, understanding and AIGC. I got GPA 3.95/4.00, ranked 2 in the major. Previously, I was fortunate to be advised by [Prof. Yueqi Duan](https://duanyueqi.github.io) at Tsinghua University and [Prof. Zhuowen Tu](https://pages.ucsd.edu/~ztu/) at University of California, San Diego. I was also a research intern at Microsoft Research Asia in 2025. I am actively seeking for Ph.D position!
+I'm a senior undergraduate student from Tsinghua University. My research interests are 3D understanding, video world models and AIGC. I got GPA 3.95/4.00, ranked 2 in the major. Previously, I was fortunate to be advised by [Prof. Yueqi Duan](https://duanyueqi.github.io) at Tsinghua University and [Prof. Zhuowen Tu](https://pages.ucsd.edu/~ztu/) at University of California, San Diego. I was also a research intern at Microsoft Research Asia in 2025. I am actively seeking for Ph.D position!
 
 You can find my CV here: [Curriculum Vitae](../assets/CV.pdf)
 
@@ -34,7 +34,7 @@ Experience
 * Research Intern, Machine Learning Group, Microsoft Research Asia, 2025.04-2025.09
 * Research Intern, mlPC Lab, advised by Prof. Zhuowen Tu, UCSD, 2024.06-2024.11
 * Research Intern, advised by Prof. Yueqi Duan, Tsinghua University, 2023.4-2025.01
-* Undergraduate student (GPA: 3.95/4.0), Tsinghua University, 2021.09 - 2025.07 
+* Undergraduate student (GPA: 3.95/4.0), Tsinghua University, 2021.09 - present 
 
 Honors and Awards
 ======
